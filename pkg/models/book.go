@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/akhil/go-bookstore/pkg/config"
+	"github.com/BatuhanKrdnz/go_mysql_bookstore/pkg/config"
 	"github.com/jinzhu/gorm"
 )
 
